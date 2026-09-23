@@ -270,10 +270,8 @@ Some possible improvements for future versions:
 
 - User authentication and authorization
 - Streaming AI responses
-- Delete and rename conversations
 - Improved responsive design
 - Dark/light theme
-- Deployment with frontend and backend
 - Better error handling
 - Loading states
 - AI model selection
