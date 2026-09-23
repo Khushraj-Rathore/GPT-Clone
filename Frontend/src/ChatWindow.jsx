@@ -23,7 +23,7 @@ function ChatWindow() {
             })
         }
         try{
-            let response = await fetch("http://localhost:5000/api/chat" , options);
+            let response = await fetch("https://gpt-clone-32no.onrender.com/api/chat" , options);
             const res = await response.json();
             console.log(res);
             setReply(res.reply);
